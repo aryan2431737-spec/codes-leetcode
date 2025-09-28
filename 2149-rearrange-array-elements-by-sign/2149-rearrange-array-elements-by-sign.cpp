@@ -1,25 +1,19 @@
 class Solution {
 public:
     vector<int> rearrangeArray(vector<int>& nums) {
-        vector<int> pos, neg;
-
-        // Step 1: Separate positive and negative numbers
-        for (int num : nums) {
-            if (num > 0)
-                pos.push_back(num);
-            else
-                neg.push_back(num);
+         int n=nums.size();
+        vector<int> ans(n,0); 
+        int posindex=0,negindex=1;
+        for(int i=0;i<n;i++){
+            if(nums[i]>0){
+                ans[posindex]=nums[i];
+                posindex+=2;
+            }
+            else{
+                ans[negindex]=nums[i];
+                negindex+=2;
+            }
         }
-
-        // Step 2: Interleave using range-based loop with manual index
-        vector<int> result;
-        int index = 0;
-        for (int x : pos) {
-            result.push_back(x);
-            result.push_back(neg[index]);
-            ++index;
-        }
-
-        return result;
+        return ans;
     }
 };
