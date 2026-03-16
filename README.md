@@ -8,6 +8,7 @@ codes of diffrent platform
 | ------- | ------- |
 | [0009-palindrome-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -16,4 +17,13 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0231-power-of-two](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0231-power-of-two/) | Easy |
+| [0509-fibonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
