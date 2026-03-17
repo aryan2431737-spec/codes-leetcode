@@ -34,4 +34,12 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1518-water-bottles](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1518-water-bottles/) | Easy |
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0001-two-sum/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0001-two-sum](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0001-two-sum/) | Easy |
 <!---LeetCode Topics End-->
