@@ -38,6 +38,7 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0001-two-sum/) | Easy |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -51,4 +52,12 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 <!---LeetCode Topics End-->
