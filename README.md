@@ -41,6 +41,7 @@ codes of diffrent platform
 | ------- | ------- |
 | [0001-two-sum](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0027-remove-element](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0027-remove-element/) | Easy |
 | [0268-missing-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0268-missing-number/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 ## Hash Table
@@ -66,4 +67,8 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0027-remove-element](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0027-remove-element/) | Easy |
 <!---LeetCode Topics End-->
