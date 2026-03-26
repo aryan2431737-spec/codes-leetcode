@@ -9,6 +9,7 @@ codes of diffrent platform
 | [0009-palindrome-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0268-missing-number/) | Easy |
+| [0319-bulb-switcher](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0319-bulb-switcher/) | Medium |
 | [0509-fibonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1518-water-bottles](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1518-water-bottles/) | Easy |
@@ -77,4 +78,8 @@ codes of diffrent platform
 | [0027-remove-element](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
+## Brainteaser
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0319-bulb-switcher](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0319-bulb-switcher/) | Medium |
 <!---LeetCode Topics End-->
