@@ -47,6 +47,7 @@ codes of diffrent platform
 | [0268-missing-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
+| [1800-maximum-ascending-subarray-sum](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1800-maximum-ascending-subarray-sum/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
