@@ -6,6 +6,7 @@ codes of diffrent platform
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0231-power-of-two](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0268-missing-number/) | Easy |
