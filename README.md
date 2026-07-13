@@ -17,6 +17,7 @@ codes of diffrent platform
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0222-count-complete-tree-nodes](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0231-power-of-two](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0231-power-of-two/) | Easy |
 | [0268-missing-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0268-missing-number/) | Easy |
 ## Recursion
@@ -69,6 +70,7 @@ codes of diffrent platform
 | ------- | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0222-count-complete-tree-nodes](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0268-missing-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0268-missing-number/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -102,6 +105,7 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+| [0222-count-complete-tree-nodes](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
