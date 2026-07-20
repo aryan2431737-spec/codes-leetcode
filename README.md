@@ -29,6 +29,7 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [0968-binary-tree-cameras](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
@@ -92,11 +93,13 @@ codes of diffrent platform
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -107,6 +110,7 @@ codes of diffrent platform
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 | [0222-count-complete-tree-nodes](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0222-count-complete-tree-nodes/) | Easy |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0235-lowest-common-ancestor-of-a-binary-search-tree/) | Medium |
+| [0968-binary-tree-cameras](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0968-binary-tree-cameras/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
