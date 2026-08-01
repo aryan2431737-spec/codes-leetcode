@@ -82,6 +82,7 @@ codes of diffrent platform
 | ------- | ------- |
 | [0027-remove-element](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0027-remove-element/) | Easy |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
+| [0344-reverse-string](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0344-reverse-string/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Brainteaser
 | Problem Name | Difficulty |
@@ -115,4 +116,8 @@ codes of diffrent platform
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0344-reverse-string](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
