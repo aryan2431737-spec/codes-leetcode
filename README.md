@@ -115,9 +115,11 @@ codes of diffrent platform
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0094-binary-tree-inorder-traversal](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0094-binary-tree-inorder-traversal/) | Easy |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0020-valid-parentheses](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0344-reverse-string/) | Easy |
 <!---LeetCode Topics End-->
