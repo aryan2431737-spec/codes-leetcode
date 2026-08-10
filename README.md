@@ -46,6 +46,7 @@ codes of diffrent platform
 | [0001-two-sum](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0027-remove-element](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0027-remove-element/) | Easy |
+| [0046-permutations](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0046-permutations/) | Medium |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0268-missing-number](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0268-missing-number/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -122,4 +123,8 @@ codes of diffrent platform
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0344-reverse-string](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0344-reverse-string/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0046-permutations](https://github.com/aryan2431737-spec/codes-leetcode/tree/main/0046-permutations/) | Medium |
 <!---LeetCode Topics End-->
